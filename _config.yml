@@ -1,0 +1,28 @@
+name: ConnorisConnor
+favicon: null
+layout_spectrum: 0.005297391442582011
+typography_spectrum: 0.6734945497009903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.07000325433909893
+  lightness: 0.14223590563051403
+  saturation: 0.37518606311641634
+  rhythmicContrast: 0.590516857104376
+purpose: []
